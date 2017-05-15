@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+<musica>
+
+<album category="locura">
+
+<artista>jose</artista>
+<ano>1988</ano>
+
+
+
+</album>
+
+
+
+
+<album  category="locura2">
+	
+<artista>kelito</artista>
+<ano>1990</ano>
+
+
+
+</album>
+
+</musica>
